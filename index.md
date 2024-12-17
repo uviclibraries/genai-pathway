@@ -20,7 +20,7 @@ nav_order: 1
 3. AI: Tools for Literature Reviews (_Introduction_) - COMING SOON
     - Topic 1
     - topic 2
-5. [GenAI: Spotting AI-generated content online](https://libguides.uvic.ca/fakenews/what-is-fake-news){:target="_blank"} (_Introduction_)
+5. GenAI: Spotting AI-generated content online (_Introduction_)
  
 ### Intermediate Workshops
 4. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)**
