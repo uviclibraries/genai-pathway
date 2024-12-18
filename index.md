@@ -4,9 +4,11 @@ title: Introduction
 nav_order: 1
 ---
 
-# Generative AI & AI Workshop Pathway
+# Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
-This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
+Generative AI tools are a double-edged sword that can help subject-area experts be more efficient, but can also easily get non-subject experts into trouble unless they thoroughly research the factual claims and analysis made by the GenAI tools they use.
+
+This Generative AI workshop series is designed to help subject area experts and non-experts alike. Our goal is help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
    - **[Introductory](#introductory-workshops)**
    - **[Intermediate](#intermediate-workshops)** 
    - **[Advanced](#advanced-workshops)**
@@ -29,10 +31,10 @@ If you are a faculty member and would like to have a library instructor lead one
 1. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
    - Participants will explore how NoteBookLM can be a personal Generative AI (GenAI) tool grounded in information you give it to use as training data.
    - In the hands-on portion of the workshop, participants will explore various ways NotebookLM can be used for research and productivity & evaluate its outputs for accuracy and biases. 
-3. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SOON
+2. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SOON
  
 ## Advanced Workshops
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SOON
-3. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
+2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Participants will explore the use of more advanced GenAI tools & techniques including installing and using local GenAI software on a laptop.
    - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
