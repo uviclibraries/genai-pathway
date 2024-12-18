@@ -6,7 +6,7 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
-Generative AI tools are a double-edged sword that can help subject-area experts be more efficient, but can also easily get non-subject experts into trouble unless they thoroughly research the factual claims and analysis made by the GenAI tools they use.
+Generative AI tools are a double-edged sword that can help subject-area experts be more efficient in their work, but can also easily get non-subject experts into trouble unless they thoroughly research the factual claims and analysis made by the GenAI tools they use.
 
 This Generative AI workshop series is designed to help subject area experts and non-experts alike. Our goal is help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
    - **[Introductory](#introductory-workshops)**
@@ -14,9 +14,6 @@ This Generative AI workshop series is designed to help subject area experts and 
    - **[Advanced](#advanced-workshops)**
 
 The workshop materials are designed to be used in a classroom setting or by individuals on their own. If you'd like to take one of these instructor-led workshops or work through them on your own, please check out at our list of <a href="https://lib.uvic.ca/curric">upcoming workshops & lesson plans</a>{:target="_blank"}.
-
-If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
- <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
@@ -38,3 +35,6 @@ If you are a faculty member and would like to have a library instructor lead one
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Participants will explore the use of more advanced GenAI tools & techniques including installing and using local GenAI software on a laptop.
    - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
+
+> **NOTE**: If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
+ <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
