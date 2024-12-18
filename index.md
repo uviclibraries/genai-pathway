@@ -6,7 +6,7 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
-Generative AI tools are a double-edged sword that can help subject-area experts be more efficient in their work, but can also easily get non-subject experts into trouble unless they thoroughly research the factual claims and analysis made by the GenAI tools they use.
+Generative AI tools can be very helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by the GenAI tools.
 
 This Generative AI workshop series is designed to help subject area experts and non-experts alike. Our goal is help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
    - **[Introductory](#introductory-workshops)**
