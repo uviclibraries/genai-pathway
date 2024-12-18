@@ -22,16 +22,16 @@ The workshop materials are designed to be used in a classroom setting or by indi
 2. **AI: Tools for Literature Reviews** (_Introduction_) - COMING SOON
    - Participants will learn about various AI tools that can assist with literature reviews.
    - In the hands-on portion of the workshop, participants will explore attribution methods, and library resource integration, to encourage informed, responsible AI use.
-3. **GenAI: Spotting AI-generated content online** (_Introduction_)
+3. **GenAI: Spotting AI-generated content online** (_Introduction_) - COMING SOON
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
    - Participants will explore how NoteBookLM can be a personal Generative AI (GenAI) tool grounded in information you give it to use as training data.
    - In the hands-on portion of the workshop, participants will explore various ways NotebookLM can be used for research and productivity & evaluate its outputs for accuracy and biases. 
-2. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SOON
+2. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SPRING 2025
  
 ## Advanced Workshops
-1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SOON
+1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SPRING 2025
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Participants will explore the use of more advanced GenAI tools & techniques including installing and using local GenAI software on a laptop.
    - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
