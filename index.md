@@ -35,4 +35,4 @@ If you are a faculty member and would like to have a library instructor lead one
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SOON
 3. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Participants will explore the use of more advanced GenAI tools & techniques including installing and using local GenAI software on a laptop.
-   - In the hands-on portion of the workshop, participants will explore GenAI tools to using specific documents as the training data, analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
+   - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
