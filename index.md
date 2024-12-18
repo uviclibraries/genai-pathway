@@ -12,6 +12,15 @@ If you are a faculty member and would like to have a library instructor lead one
  <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
 
 ### Introductory Workshops
+{% include accordion.html %}
+---
+accordion: 
+  - title: GenAI: Introduction & Prompt Design (_Introduction_)
+    content: Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: AI: Tools for Literature Reviews (_Introduction_)
+    content: Lit Review... Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+--- 
+
 1. [GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
 3. AI: Tools for Literature Reviews (_Introduction_) - COMING SOON
 5. GenAI: Spotting AI-generated content online (_Introduction_)
