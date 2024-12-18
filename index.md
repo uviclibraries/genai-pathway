@@ -19,7 +19,7 @@ nav_order: 1
 5. GenAI: Spotting AI-generated content online (_Introduction_)
  
 ### Intermediate Workshops
-4. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)**
+4. [GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"} (_Intermediate_)
 6. GenAI: Presentation & Multi-Media Tools (_Intermediate_) - COMING SOON
  
 ### Advanced Workshops
