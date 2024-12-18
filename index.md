@@ -6,8 +6,7 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;" alt="Double edge sword">
-- Why is this workshop pathway important?
-- Who is it for?
+- This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI.
 
 ### Introductory Workshops
 1. [GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
