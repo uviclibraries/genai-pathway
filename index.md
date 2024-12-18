@@ -7,11 +7,11 @@ nav_order: 1
 # Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
 This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
-  - **[Introductory](#introductory-workshops)**
-  - [Intermediate](#intermediate-workshops) 
-  - [Advanced](#advanced-workshops)
+   - **[Introductory](#introductory-workshops)**
+   - **[Intermediate](#intermediate-workshops)** 
+   - **[Advanced](#advanced-workshops)**
 
-The workshop materials have been designed to be used in a classroom setting led by a knowledgeable instructor or to be used by individuals on their own at the time and place they choose. If you'd like to take one of these workshops or work through them on your own, please look at our list of <a href="https://lib.uvic.ca/curric">upcoming workshops & lesson plans</a>{:target="_blank"}.
+The workshop materials are designed to be used in a classroom setting or by individuals on their own. If you'd like to take one of these instructor-led workshops or work through them on your own, please check out at our list of <a href="https://lib.uvic.ca/curric">upcoming workshops & lesson plans</a>{:target="_blank"}.
 
 If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
  <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
