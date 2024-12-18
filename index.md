@@ -3,10 +3,9 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/ai-double-edge-sword.png" style="float:right;width:180px;" alt="Double edge sword">
 
 # Generative AI Workshop Pathway
+<img src="images/ai-double-edge-sword.png" style="float:right;width:300px;" alt="Double edge sword">
 - Why is this workshop pathway important?
 - Who is it for?
 
