@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Generative AI Workshop Pathway
+# Generative AI & AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
 This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
    - **[Introductory](#introductory-workshops)**
