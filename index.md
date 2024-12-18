@@ -14,7 +14,7 @@ If you are a faculty member and would like to have a library instructor lead one
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
    - Workshop participants will explore the use of GenAI to assist with Student Research for idea generation & consider ethical considerations such as plagiarism & privacy.
-   - In the hands-on portion of the workshop, participants will explore GenAI tool usage & output evaluation for accuracy & biases. The workshop will encourage informed, responsible GenAI use.
+   - In the hands-on portion of the workshop, participants will explore GenAI tool usage & output for accuracy & biases. The workshop will encourage informed, responsible GenAI use.
 2. **AI: Tools for Literature Reviews** (_Introduction_) - COMING SOON
    - Workshop participants will learn about various AI tools that can assist with literature reviews.
    - In the hands-on portion of the workshop, participants will explore attribution methods, library resource integration, to encourage informed, responsible AI use.
@@ -22,8 +22,8 @@ If you are a faculty member and would like to have a library instructor lead one
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
-   - Workshop participants will explore the use of NoteBookLM as a personal Generative AI (GenAI) tool grounded in the information you trust. “When you upload the documents central to your projects, tools like NotebookLM instantly become an expert in the information” in the documents you uploaded to them (NotebookLM.google, 2024).
-   - In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also encourage informed, responsible cloud-based GenAI use.
+   - Workshop participants will explore how NoteBookLM can be a personal Generative AI (GenAI) tool grounded in information you give it to use as training data.
+   - In the hands-on portion of the workshop, participants will explore NotebookLM usage and output evaluation for accuracy and biases. 
 3. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SOON
  
 ## Advanced Workshops
