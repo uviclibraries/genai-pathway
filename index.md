@@ -8,6 +8,8 @@ nav_order: 1
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:20px;" alt="Double edge sword">
 This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI.
 
+If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at =<a href="mailto:dscommons@uvic.ca">dscommons@uvic.ca</a>
+
 ### Introductory Workshops
 1. [GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
 3. AI: Tools for Literature Reviews (_Introduction_) - COMING SOON
