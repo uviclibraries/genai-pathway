@@ -7,11 +7,8 @@ nav_order: 1
 <img src="images/ai-double-edge-sword.png" style="float:right;width:180px;" alt="Double edge sword">
 
 # Generative AI Workshop Pathway
-**Intro here**:
 - Why is this workshop pathway important?
 - Who is it for?
-
-## The Workshops 
 
 ### Introductory Workshops
 1. [GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"} (_Introduction_)
