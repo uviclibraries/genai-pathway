@@ -6,7 +6,9 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
-This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI.
+This Generative AI workshop series is designed to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, te workshops have been categorized as either Introductory, Intermediate, or Advanced.
+
+The workshop materials have been designed to be used in a classroom setting led by a knowledgeable instructor or to be used by individuals on their own at the time and place they choose. If you'd like to take one of these workshops or work through them on your own, please look at our list of <a href="https://lib.uvic.ca/curric">upcoming workshops & lesson plans</a>{:target="_blank"}.
 
 If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
  <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
@@ -17,7 +19,7 @@ If you are a faculty member and would like to have a library instructor lead one
    - In the hands-on portion of the workshop, participants will explore GenAI tool usage & output for accuracy & biases. The workshop will encourage informed, responsible GenAI use.
 2. **AI: Tools for Literature Reviews** (_Introduction_) - COMING SOON
    - Workshop participants will learn about various AI tools that can assist with literature reviews.
-   - In the hands-on portion of the workshop, participants will explore attribution methods, library resource integration, to encourage informed, responsible AI use.
+   - In the hands-on portion of the workshop, participants will explore attribution methods, and library resource integration, to encourage informed, responsible AI use.
 3. **GenAI: Spotting AI-generated content online** (_Introduction_)
  
 ## Intermediate Workshops
