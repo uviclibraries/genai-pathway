@@ -1,4 +1,4 @@
-# Generative AI Workshop Pathway
+# Generative AI & AI Workshop Pathway
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/genai-pathway/
