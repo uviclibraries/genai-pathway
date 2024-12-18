@@ -7,7 +7,7 @@ nav_order: 1
 # Generative AI Workshop Pathway
 Generative AI (GenAI) tools can be very helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by the GenAI tools.
 
-This GenAI workshop series is designed to help subject area experts and non-experts alike. Our goal is help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced research & productivity topics in GeneAI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as follows:
+This GenAI workshop series is designed to help subject area experts and non-experts alike. Our goal is to help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced research & productivity topics in GeneAI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as follows:
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
    - **[Introductory](#introductory-workshops)**
    - **[Intermediate](#intermediate-workshops)** 
@@ -34,7 +34,7 @@ The workshop materials are designed to be used in a classroom setting or by indi
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SPRING 2025
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Participants will explore the use of more advanced GenAI tools & techniques including installing and using local GenAI software on a laptop.
-   - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze Excel spreadsheets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
+   - In the hands-on portion of the workshop, participants will explore GenAI tools using specific documents as the training data (as opposed to the whole web), analyze datasets, perform sentiment analysis on free-form survey questions, and assist with qualitative coding. 
 
 > **NOTE**: If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
  <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
