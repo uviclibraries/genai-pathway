@@ -13,11 +13,11 @@ If you are a faculty member and would like to have a library instructor lead one
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
-   - Workshop participants will explore the use of GenAI to assist with Student Research for idea generation and consider ethical considerations such as plagiarism, privacy, and research integrity.
-   - In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also encourage informed, responsible GenAI use.
+   - Workshop participants will explore the use of GenAI to assist with Student Research for idea generation & consider ethical considerations such as plagiarism & privacy.
+   - In the hands-on portion of the workshop, participants will explore GenAI tool usage & output evaluation for accuracy & biases. The workshop will encourage informed, responsible GenAI use.
 2. **AI: Tools for Literature Reviews** (_Introduction_) - COMING SOON
-   - Workshop participants will explore the use of GenAI to assist with literature reviews, and review the ethical considerations such as plagiarism, privacy, and research integrity.
-   - In the hands-on portion of the workshop, participants will explore attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
+   - Workshop participants will learn about various AI tools that can assist with literature reviews.
+   - In the hands-on portion of the workshop, participants will explore attribution methods, library resource integration, to encourage informed, responsible AI use.
 3. **GenAI: Spotting AI-generated content online** (_Introduction_)
  
 ## Intermediate Workshops
@@ -27,5 +27,6 @@ If you are a faculty member and would like to have a library instructor lead one
 3. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SOON
  
 ## Advanced Workshops
-1. AI: Tools for Literature Reviews (_Advanced_) - COMING SOON
-2. [GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"} (_Advanced_)
+1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SOON
+3. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
+   - ...
