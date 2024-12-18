@@ -5,14 +5,13 @@ nav_order: 1
 ---
 
 # Generative AI Workshop Pathway
-<img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
 Generative AI tools can be very helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by the GenAI tools.
 
 This Generative AI workshop series is designed to help subject area experts and non-experts alike. Our goal is help to meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering tailored sessions that cover foundational to advanced topics in Generative AI. To help you find the workshops best suited to your current skill level, the workshops have been categorized as either:
    - **[Introductory](#introductory-workshops)**
    - **[Intermediate](#intermediate-workshops)** 
    - **[Advanced](#advanced-workshops)**
-
+<img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
 The workshop materials are designed to be used in a classroom setting or by individuals on their own. If you'd like to take a drop-in instructor-led workshop, please check out our list of <a href="https://lib.uvic.ca/curric">upcoming workshops</a>{:target="_blank"}. The links below are to  workshop lesson plans you can work through on your own, or review before taking one of our instructor-led sessions.
 
 ## Introductory Workshops
