@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction 
+title: GenAI Pathway 
 nav_order: 1
 ---
 
