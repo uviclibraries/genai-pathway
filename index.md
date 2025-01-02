@@ -8,12 +8,12 @@ nav_order: 1
 Generative AI (GenAI) tools can be helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by GenAI tools.
 <img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
 
-This GenAI workshop series is designed to help subject area experts and non-experts alike. Our goal is to help meet the diverse needs of undergraduate students, graduate students, faculty, and staff by offering training to cover foundational to advanced research & productivity topics. To help you find the workshops best suited to your current skill level, the workshops have been categorized as follows:
+This GenAI workshop series is designed to help subject area experts and non-experts alike. Our goal is to help meet the diverse needs of students, faculty, & staff by offering training on foundational to advanced research & productivity skills:
    - **[Introductory](#introductory-workshops)**
    - **[Intermediate](#intermediate-workshops)** 
    - **[Advanced](#advanced-workshops)**
 
-The workshop materials are designed to be used in a classroom setting or by individuals on their own. If you'd like to take a drop-in instructor-led workshop, please check out our list of <a href="https://lib.uvic.ca/curric">upcoming workshops</a>{:target="_blank"}. The links below are to  workshop lesson plans you can work through on your own, or review before taking one of our instructor-led sessions.
+The workshop materials are designed to be used in a classroom setting or self-paced by individuals. If you'd like to take a drop-in instructor-led workshop, please check out our list of <a href="https://lib.uvic.ca/curric">upcoming workshops</a>{:target="_blank"}. The links below are to  workshop lesson plans you can work through on your own, or review before taking one of our instructor-led sessions.
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
