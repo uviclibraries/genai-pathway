@@ -6,7 +6,7 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 Generative AI (GenAI) tools can be helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by GenAI tools.
-<img src="images/ai-double-edge-sword.png" style="float:right;width:300px;padding:10px;" alt="Double edge sword">
+<img src="images/ai-double-edge-sword.png" style="float:right;width:280px;padding:7px;" alt="Double edge sword">
 
 This workshop series is designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
    - **[Introductory](#introductory-workshops)**
@@ -17,8 +17,9 @@ The workshop materials are designed to be used by instructors with their classes
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
-   - Workshop participants will explore the use of GenAI to assist with Student Research for idea generation & consider ethical considerations such as plagiarism & privacy.
-   - In the hands-on portion of the workshop, participants will explore GenAI tool usage & output for accuracy & biases. The workshop will encourage informed, responsible GenAI use.
+   - Explore the use of GenAI to assist Researchers with idea generation & consider ethical considerations such as plagiarism & privacy.
+   - Participants will also explore GenAI tool usage & output for accuracy & biases.
+   - The workshop will encourage informed, responsible GenAI use.
 2. **AI: Tools for Literature Reviews** (_Introduction_) - COMING SOON
    - Participants will learn about various AI tools that can assist with literature reviews.
    - In the hands-on portion of the workshop, participants will explore attribution methods, and library resource integration, to encourage informed, responsible AI use.
