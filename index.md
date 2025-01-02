@@ -13,7 +13,7 @@ This GenAI workshop series is designed to help subject area experts and non-expe
    - **[Intermediate](#intermediate-workshops)** 
    - **[Advanced](#advanced-workshops)**
 
-The workshop materials are designed to be used in a classroom setting or self-paced by individuals. If you'd like to take a drop-in instructor-led workshop, please check out our list of <a href="https://lib.uvic.ca/curric">upcoming workshops</a>{:target="_blank"}. The links below are to  workshop lesson plans you can work through on your own, or review before taking one of our instructor-led sessions.
+The workshop materials are designed to be used by instructors with their classes or individuals. If you'd like to take a drop-in instructor-led workshop, please check out our list of <a href="https://lib.uvic.ca/curric">upcoming workshops</a>{:target="_blank"}. Below are workshop lesson plans you can work through, or review before taking an instructor-led session.
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
