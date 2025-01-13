@@ -36,5 +36,6 @@ The workshop materials are designed to be used by instructors with their classes
    - Explore the use of advanced GenAI tools & techniques including installing and using local GenAI software
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
+<hr>
 > **NOTE**: If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
  <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
