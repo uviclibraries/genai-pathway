@@ -6,7 +6,7 @@ nav_order: 1
 
 # Generative AI Workshop Pathway
 Generative AI (GenAI) tools can be helpful for subject-area experts, making their work more efficient. However, for those who lack expertise in a specific field, these tools can lead to problems if they don't carefully verify the facts and analysis provided by GenAI tools.
-<img src="images/ai-double-edge-sword.png" style="float:right;width:270px;padding:5px;" alt="Double edge sword">
+<img src="images/double-edge-sword.jpeg" style="float:right;width:270px;padding:5px;" alt="Double edge sword">
 
 This workshop series is designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
    - **[Introductory](#introductory-workshops)**
