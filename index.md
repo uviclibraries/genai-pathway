@@ -17,7 +17,8 @@ The workshop materials are designed to be used by instructors with their classes
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
-   - Explore the use of GenAI to assist Researchers with idea generation, formative assessment before submitting assignments, & consider ethical considerations such as plagiarism & privacy
+   - Explore the use of GenAI to assist Researchers with idea generation, & consider ethical considerations
+   - Explore how GenAI can help you check and improve your work before submitting assignments, while following academic integrity rules
    - Participants will also explore GenAI tool usage & output for accuracy & biases & encourage informed, responsible GenAI use
 2. **[AI: Tools for Literature Reviews](https://lib.uvic.ca/ai-lit-review-intro){:target="_blank"}** (_Introduction_)
    - Learn about various AI tools that can assist with literature reviews
@@ -36,7 +37,7 @@ The workshop materials are designed to be used by instructors with their classes
 ## Advanced Workshops
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SPRING 2025
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
-   - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software
+   - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or senstive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
 <hr>
