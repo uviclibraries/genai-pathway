@@ -5,10 +5,10 @@ nav_order: 1
 ---
 
 # Generative AI Workshop Pathway
-Generative AI (GenAI) tools are truly double-edged swords. They can be helpful to subject-area experts, making their work more efficient. However, for those who lack subject expertise, these tools can lead to embarrassment or worse if the facts and analysis provided by GenAI tools are not checked for accuracy.
+Generative AI (GenAI) tools are truly double-edged swords. They can be helpful to subject-area experts, making their work more efficient. However, for those who lack subject expertise, these tools can lead to embarrassment or worse if the facts & analysis provided by GenAI tools are not checked for accuracy.
 <img src="images/double-edge-sword.jpeg" style="float:right;width:270px;padding:5px;" alt="Double edge sword">
 
-This workshop series is designed to help subject area experts and non-experts and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
+This workshop series is designed to help subject area experts & non-experts & help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
    - **[Introductory](#introductory-workshops)**
    - **[Intermediate](#intermediate-workshops)** 
    - **[Advanced](#advanced-workshops)**
@@ -17,7 +17,7 @@ The workshop materials are designed to be used by instructors with their classes
 
 ## Introductory Workshops
 1. **[GenAI: Introduction & Prompt Design](https://lib.uvic.ca/gen-ai){:target="_blank"}** (_Introduction_)
-   - Explore the use of GenAI to assist Researchers with idea generation, formative assessment, & consider ethical considerations such as plagiarism & privacy
+   - Explore the use of GenAI to assist Researchers with idea generation, formative assessment before submitting assignments, & consider ethical considerations such as plagiarism & privacy
    - Participants will also explore GenAI tool usage & output for accuracy & biases & encourage informed, responsible GenAI use
 2. **[AI: Tools for Literature Reviews](https://lib.uvic.ca/ai-lit-review-intro){:target="_blank"}** (_Introduction_)
    - Learn about various AI tools that can assist with literature reviews
@@ -26,20 +26,19 @@ The workshop materials are designed to be used by instructors with their classes
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
-   - Explore how NoteBookLM can be a personal GenAI tool grounded in information you give it to use as training data
    - Explore how you can give NoteBookLM a collection of documents so it can use the information in the documents to respond to your prompts.
-   - Explore various ways NotebookLM can be used for research and productivity & evaluate its outputs for accuracy & biases 
+   - Explore various ways NotebookLM can be used for research & productivity & evaluate its outputs for accuracy & biases 
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
    - Transcribe audio or video with Microsoft 365, Whisper.ai, & Zoom
-   - Learn about the benefits and use cases for transcribing audio with Microsoft 365, Whisper.ai, & Zoom compared to other transcription technologies
+   - Learn about the benefits & use cases for transcribing audio with Microsoft 365, Whisper.ai, & Zoom compared to other transcription technologies
 4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SPRING 2025
  
 ## Advanced Workshops
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SPRING 2025
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
-   - Explore the use of advanced GenAI tools & techniques, including installing and using local GenAI software
+   - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
 <hr>
-> **NOTE**: If you are a faculty member and would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
- <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs and learning objectives for your group.
+> **NOTE**: If you are a faculty member & would like to have a library instructor lead one of these workshops a class or a research group, please email us at 
+ <a href="mailto:dscommons@uvic.ca?Subject=GenAI Workshop Request">dscommons@uvic.ca</a> so that we can discuss your specific needs & learning objectives for your group.
