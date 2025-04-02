@@ -26,7 +26,7 @@ The workshop materials are designed to be used by instructors with their classes
 3. **GenAI: Spotting AI-generated content online** (_Introduction_) - COMING SOON
  
 ## Intermediate Workshops
-1. **[GenAI: NotebookLM a Personal Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
+1. **[GenAI: NotebookLM a Personal RAG Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
    - Explore how you can give NoteBookLM a collection of documents so it can use the information in the documents to respond to your prompts.
    - Explore various ways NotebookLM can be used for research & productivity & evaluate its outputs for accuracy & biases 
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
