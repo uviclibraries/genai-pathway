@@ -32,10 +32,10 @@ The workshop materials are designed to be used by instructors with their classes
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
    - Transcribe audio or video with Microsoft 365, Whisper.ai, & Zoom
    - Learn about the benefits & use cases for transcribing audio with Microsoft 365, Whisper.ai, & Zoom compared to other transcription technologies
-4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SPRING 2025
+4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SUMMER 2025
  
 ## Advanced Workshops
-1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SPRING 2025
+1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SUMMER 2025
 2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
    - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or senstive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
