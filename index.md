@@ -27,7 +27,7 @@ The workshop materials are designed to be used by instructors with their classes
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal RAG Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
-   - Explore how you can give NoteBookLM a collection of documents so it can use the information in the documents to respond to your prompts.
+   - Explore how you can give NotebookLM a collection of documents so it can use the information in the documents to respond to your prompts.
    - Explore various ways NotebookLM can be used for research & productivity & evaluate its outputs for accuracy & biases 
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
    - Transcribe audio or video with Microsoft 365, Whisper.ai, & Zoom
@@ -36,8 +36,8 @@ The workshop materials are designed to be used by instructors with their classes
  
 ## Advanced Workshops
 1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SUMMER 2025
-2. **[GenAI: Research Tools](https://lib.uvic.ca/genai-research-adv){:target="_blank"}** (_Advanced_)
-   - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or senstive information
+2. **[GenAI: Research Tools](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Advanced_)
+   - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or sensitive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
 <hr>
