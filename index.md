@@ -20,7 +20,7 @@ The workshop materials are designed to be used by instructors with their classes
    - Explore the use of GenAI to assist Researchers with idea generation, & consider ethical considerations
    - Explore how GenAI can help you check and improve your work before submitting assignments, while following academic integrity rules
    - Participants will also explore GenAI tool usage & output for accuracy & biases & encourage informed, responsible GenAI use
-2. **[AI: Tools for Literature Reviews](https://lib.uvic.ca/ai-lit-review-intro){:target="_blank"}** (_Introduction_)
+2. **[AI: Tools for Literature Reviews](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Introduction_)
    - Learn about various AI tools that can assist with literature reviews
    - Explore attribution methods & library resource integration to encourage informed & responsible AI use
 3. **GenAI: Spotting AI-generated content online** (_Introduction_) - COMING SOON
