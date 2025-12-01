@@ -20,10 +20,9 @@ The workshop materials are designed to be used by instructors with their classes
    - Explore the use of GenAI to assist Researchers with idea generation, & consider ethical considerations
    - Explore how GenAI can help you check and improve your work before submitting assignments, while following academic integrity rules
    - Participants will also explore GenAI tool usage & output for accuracy & biases & encourage informed, responsible GenAI use
-2. **[AI: Tools for Literature Reviews](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Introduction_)
+2. **[Literature searching with Artificial Intelligence](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Introduction_)
    - Learn about various AI tools that can assist with literature reviews
    - Explore attribution methods & library resource integration to encourage informed & responsible AI use
-3. **GenAI: Spotting AI-generated content online** (_Introduction_) - COMING SOON
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal RAG Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
@@ -32,11 +31,10 @@ The workshop materials are designed to be used by instructors with their classes
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
    - Transcribe audio or video with Microsoft 365, Whisper.ai, & Zoom
    - Learn about the benefits & use cases for transcribing audio with Microsoft 365, Whisper.ai, & Zoom compared to other transcription technologies
-4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SUMMER 2025
+4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SUMMER 2026
  
 ## Advanced Workshops
-1. **AI: Tools for Literature Reviews** (_Advanced_) - COMING SUMMER 2025
-2. **[GenAI: Research Tools](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Advanced_)
+1. **[GenAI: Research Tools](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Advanced_)
    - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or sensitive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
