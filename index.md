@@ -34,7 +34,7 @@ The workshop materials are designed to be used by instructors with their classes
 4. **GenAI: Presentation & Multi-Media Tools** (_Intermediate_) - COMING SUMMER 2026
  
 ## Advanced Workshops
-1. **[GenAI: Research Tools](https://lib.uvic.ca/ai-lit-search){:target="_blank"}** (_Advanced_)
+1. **[GenAI: Research Tools](https://uviclibraries.github.io/genai-research-tools-adv/){:target="_blank"}** (_Advanced_)
    - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or sensitive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
 
