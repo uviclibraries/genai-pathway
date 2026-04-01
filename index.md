@@ -24,6 +24,8 @@ The workshop materials are designed to be used by instructors with their classes
    - Explore attribution methods & library resource integration to encourage informed & responsible AI use
 3. **Artificial Intelligence and the Environment** (_introduction_)
    - Please contact [David Boudinot](mailto:boudinot@uvic.ca) for more details about the workshop or to schedule a workshop for your class
+4. **Is Your Smart Phone Listening to You? And how to stop Big Tech from Tracking You** (_Introduction_) - COMING SUMMER 2026
+
  
 ## Intermediate Workshops
 1. **[GenAI: NotebookLM a Personal RAG Tool for Research & Productivity](https://lib.uvic.ca/genai-notebooklm){:target="_blank"}** (_Intermediate_)
