@@ -34,9 +34,10 @@ The workshop materials are designed to be used by instructors with their classes
 2. **[Transcription with Free AI Tools](https://lib.uvic.ca/transcription){:target="_blank"}**  (_Intermediate_)
    - Transcribe audio or video with Microsoft 365, Whisper.ai, & Zoom
    - Learn about the benefits & use cases for transcribing audio with Microsoft 365, Whisper.ai, & Zoom compared to other transcription technologies
-4. **GenAI: Vibe Coding Simple Web Applications** (_Intermediate_) - COMING SUMMER 2026
-   - Vibe Code, or create simple web applications using free GenAI tools for fun or for learning
-   - The use of persistent storage or Databases will not be covered.
+4. **[From Ideas to Apps: Create Apps & Learning Games with Generative AI](https://lib.uvic.ca/vibe-code-intro){:target="_blank"}** (_Intermediate_) - COMING JULY 2026
+   - Bring your ideas for custom apps and learning games to life without ever writing a single line of code
+   - Vibe Code, or create simple web applications using free GenAI tools
+   - The use of persistent storage or Databases will not be covered
  
 ## Advanced Workshops
 1. **[GenAI: Research Tools](https://uviclibraries.github.io/genai-research-tools-adv/){:target="_blank"}** (_Advanced_)
