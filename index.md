@@ -24,7 +24,7 @@ The workshop materials are designed to be used by instructors with their classes
    - Explore attribution methods & library resource integration to encourage informed & responsible AI use
 3. **Artificial Intelligence and the Environment** (_introduction_)
    - Please contact [David Boudinot](mailto:boudinot@uvic.ca) for more details about the workshop or to schedule a workshop for your class
-4. **Is Your Smart Phone Listening to You? How to stop Big Tech from Tracking You Online** (_Introduction_) - COMING SUMMER 2026
+4. **Is Your Smart Phone Listening to You? How to stop Big Tech from Tracking You Online** (_Introduction_) - COMING FALL 2026
 
  
 ## Intermediate Workshops
@@ -43,7 +43,7 @@ The workshop materials are designed to be used by instructors with their classes
 1. **[GenAI: Research Tools](https://uviclibraries.github.io/genai-research-tools-adv/){:target="_blank"}** (_Advanced_)
    - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or sensitive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
-2. **GenAI: Vibe Coding Local Applications for Research** (_Intermediate_) - COMING SUMMER 2026
+2. **GenAI: Vibe Coding Local Applications for Research** (_Advanced_) - COMING FALL 2026
    - Vibe Code, or create applications to run your laptop or smartphone using GenAI tools
    - The use of persistent storage like databases will be covered.
 
