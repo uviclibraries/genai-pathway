@@ -43,7 +43,7 @@ The workshop materials are designed to be used by instructors with their classes
 1. **[GenAI: Research Tools](https://uviclibraries.github.io/genai-research-tools-adv/){:target="_blank"}** (_Advanced_)
    - Explore the use of advanced GenAI tools & techniques, including installing & using local GenAI software especially for working with private or sensitive information
    - Explore GenAI tools using specific documents as the training data, analyze datasets, perform sentiment analysis on free-form survey questions, & assist with qualitative coding
-2. **reate Local Apps for Research Using GenAI Vibe Coding Techniques** (_Advanced_) - COMING FALL 2026 or SPRING 2027
+2. **Create Local Apps for Research Using GenAI Vibe Coding Techniques** (_Advanced_) - COMING FALL 2026 or SPRING 2027
    - Vibe Code, or create applications to run your laptop or smartphone using GenAI tools
    - The use of persistent storage like databases will be covered.
 
