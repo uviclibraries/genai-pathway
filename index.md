@@ -25,6 +25,9 @@ The workshop materials are designed to be used by instructors with their classes
 3. **Artificial Intelligence and the Environment** (_introduction_)
    - Please contact [David Boudinot](mailto:boudinot@uvic.ca) for more details about the workshop or to schedule a workshop for your class
 4. **[Is Your Smart Phone Listening to You? How to stop Big Tech from Tracking You Online](https://lib.uvic.ca/priv-sec){:target="_blank"}** (_Introduction_)
+   - Has something like this happened to you? Your friend mentions that you should take a trip to the south pole, and an hour later, there it is, a “South Pole expidition” advertisments showing up as you browse the web… We'll discuss how this really happens & how you can stop it.
+   - Are you tired of browsing the web, and being over run by ads that distract & clutter the web pages? We have thoughts & suggestions.
+   - Do you want to stop Grammarly from sending your personal data to the cloud? We have a free solutions for runs locally on your laptop.
 
  
 ## Intermediate Workshops
