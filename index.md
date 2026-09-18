@@ -27,7 +27,7 @@ The workshop materials are designed to be used by instructors with their classes
 4. **[Is Your Smart Phone Listening to You? How to stop Big Tech from Tracking You Online](https://lib.uvic.ca/priv-sec){:target="_blank"}** (_Introduction_)
    - Your friend mentions that you should take a trip to the south pole, & later a “South Pole expidition” advertisments shows on your phone… We'll show you how to stop it.
    - Are you tired of browsing the web, and being over run by ads that distract & clutter the web pages? We have thoughts & suggestions.
-   - Do you want to stop Grammarly from sending your personal data to the cloud? We have a free solutions for runs locally on your laptop.
+   - Do you want to stop Grammarly from sending your personal information to the cloud? We have a solution for you.
 
  
 ## Intermediate Workshops
